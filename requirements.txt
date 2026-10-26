@@ -1,0 +1,3 @@
+# Dependencias principales para Crónicas de Brumavalle: La Llama Antigua
+# En Python 3.14+ se recomienda pygame-ce (Community Edition) para compatibilidad total con SDL2
+pygame-ce>=2.5.0
